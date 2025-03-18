@@ -29,4 +29,4 @@ For any questions, suggestions, or support, feel free to reach out to our team:
 
 ---
 
-__Cheers! 🥂_
+_Cheers! 🥂_
