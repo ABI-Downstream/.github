@@ -20,13 +20,20 @@ This is just the beginning! In the future, we plan to expand our repository coll
 
 ---
 
-## Contact Us 🗣️
+## Join the Organization 🤝
 
-For any questions, suggestions, or support, feel free to reach out to our team:
+Are you interested in joining the **ABI Downstream Developers** organization? We are always looking for talented developers who are passionate about building custom solutions using **TypeScript**, **JavaScript**, **SAPUI5**, and other technologies.
 
-- **Vitoria Neris**  
-  - LinkedIn: [Vitoria Neris](https://www.linkedin.com/in/vitorianeris/)
+If you'd like to become a member, please send an email to:
 
----
+- **Email**: abicustomteam@avanade.com 
+- **Subject**: Request to Join ABI Downstream Developers  
+
+In your email, please include:
+- Squad;
+- ABI Email;
+- Avanade Email.
+
+We look forward to hearing from you!
 
 _Cheers! 🥂_
